@@ -21,7 +21,7 @@ Hoe.spec 'minitest-rails' do
 
   dependency 'minitest',      '~> 5.1'
   dependency 'minitest-test', '~> 1.0'
-  dependency 'railties',      '>= 3.0'
+  dependency 'railties',      '>= 4.0'
   dependency 'fakefs',        '= 0.4.0', :dev
 end
 
